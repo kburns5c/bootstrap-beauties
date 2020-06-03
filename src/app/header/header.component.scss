@@ -1,4 +1,22 @@
 header {
+    width: 100%;
     background-color: blue;
     color: white;
+    // per style guide specifications
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 0.2em;
 }
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    display: inline;
+  }
+
+  button {
+      float: right;
+  }
