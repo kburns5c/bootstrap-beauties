@@ -1,0 +1,49 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+  }
+
+// email signup
+.email-signup {
+    display: inline;
+
+}
+
+// input field for email address
+#email-address {
+    padding: 12px 60px 12px 60px;
+    border: 1px solid black;
+    box-shadow: -4px 4px;
+}
+
+// subscribe button
+  #subscribe {
+    float: right;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    padding: 12px 60px 12px 60px;
+    /* padding-left: 60px; */
+    /* padding-right: 60px; */
+    border: 1px solid black;
+    box-shadow: -4px 4px;
+    letter-spacing: .2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: Montserrat;
+    font-style: normal;
+  } 
+
+//   links
+.links {
+display: inline;
+}
+
+// copyright info
+.copyright{
+    display: inline;
+}
