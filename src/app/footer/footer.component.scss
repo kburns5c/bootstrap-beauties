@@ -23,7 +23,6 @@ footer {
 
 // subscribe button
   #subscribe {
-    float: right;
     background-color: white;
     color: black;
     padding: 12px 60px 12px 60px;
@@ -43,6 +42,6 @@ display: inline;
 
 // copyright info
 .copyright {
-    display: inline;
-    text-align: center;
+    text-align: justify;
+    text-align-last: center;
 }
